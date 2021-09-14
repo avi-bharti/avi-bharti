@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**aka-avi/aka-avi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am a full stack web developer (PHP) just starting out in my career. I live in Jammu, India.
 
-Here are some ideas to get you started:
+Since last 6 months I am into web development and am about to launch my first project real soon 🤞
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” - Bill Gates
+
+
+I am always trying to grow and learn something new. 
+
+- 🔭 I’m currently working on a personal web development project.
+- 🌱 I’m currently learning Object oriented PHP.
+- 📫 How to reach me: avinashbharti867@gmail.com
+- 😄 Pronouns: He/his
