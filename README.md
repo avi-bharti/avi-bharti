@@ -6,10 +6,10 @@ I am Avinash and i am a motivated and eager coder with over 1 year of experience
 
 🔥 Experienced coder with a passion for building high-quality, scalable software.
 
-💻 Proficient in languages such as Java, Python, and C++.
+💻 Proficient in languages such as JavaScript and PHP.
 
 💡 Strong background in data structures, algorithms, and software design.
 
 🛠 Skilled in working with a variety of frameworks, libraries, and tools.
 
-📱 Contact me: email@example.com | 555-555-5555 | https://github.com/username
+📱 Contact me: avinashbharti867@gmail.com | +919906129867 | [https://github.com/avi-bharti](https://github.com/avi-bharti/)
