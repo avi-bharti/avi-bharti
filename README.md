@@ -1,15 +1,11 @@
 ### Hi there 👋
 
- I am a full stack web developer (PHP) just starting out in my career. I live in Jammu, India.
-
-Since last 6 months I am into web development and am about to launch my first project real soon 🤞
+I am Avinash and i am a motivated and eager coder with over 1 year of experience in the field. I have a strong passion for problem-solving and enjoy tackling challenging projects. Proficient in programming languages such as JavaScript and PHP. I am always looking to learn new technologies and expand my skill set. In my current role, I have worked on several projects such as an ecommerce store, a freelance site and our ERP Product. I am a team player and enjoy working with others to achieve a common goal. I am excited to continue growing and learning in the field of software development.
 
 > “Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” - Bill Gates
 
-
-I am always trying to grow and learn something new. 
-
-- 🔭 I’m currently working on a personal web development project.
-- 🌱 I’m currently learning Object oriented PHP.
-- 📫 How to reach me: avinashbharti867@gmail.com
-- 😄 Pronouns: He/his
+🔥 Experienced coder with a passion for building high-quality, scalable software.
+💻 Proficient in languages such as Java, Python, and C++.
+💡 Strong background in data structures, algorithms, and software design.
+🛠 Skilled in working with a variety of frameworks, libraries, and tools.
+📱 Contact me: email@example.com | 555-555-5555 | https://github.com/username
