@@ -5,7 +5,11 @@ I am Avinash and i am a motivated and eager coder with over 1 year of experience
 > “Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” - Bill Gates
 
 🔥 Experienced coder with a passion for building high-quality, scalable software.
+
 💻 Proficient in languages such as Java, Python, and C++.
+
 💡 Strong background in data structures, algorithms, and software design.
+
 🛠 Skilled in working with a variety of frameworks, libraries, and tools.
+
 📱 Contact me: email@example.com | 555-555-5555 | https://github.com/username
